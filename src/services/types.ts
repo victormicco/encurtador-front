@@ -1,4 +1,6 @@
 export type GetLink = {
-    link: any,
-    
-}
+  link: any;
+};
+export type GetShortcuted = {
+  id: any;
+};
