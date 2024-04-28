@@ -3,7 +3,7 @@
 ## Instruções para a correção do teste
 
 Após clonar o repositório, o primeiro passo é:
-Configurar o arquivo .envd.local na pasta root do projeto
+Configurar o arquivo .env.local na pasta root do projeto
 
 ```bash
 NEXT_PUBLIC_LINK_BASE_URL: "http://localhost:3333/"
